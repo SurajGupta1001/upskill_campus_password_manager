@@ -43,9 +43,6 @@
 
 Contributions to Pass Vault are highly encouraged! If you encounter any issues or have suggestions for improvements, please create an issue or submit a pull request on the official repository.
 
-## License
-
-Pass Vault is released under the MIT License. Check the LICENSE file for more details.
 
 ## Acknowledgments
 
